@@ -1,4 +1,4 @@
-//Bai 5: Dem so luong chu so cua so nguyen duong n
+//Bai 4: Dem so luong chu so cua so nguyen duong n
 #include <stdio.h>
 int main() {
     int n, count=0;
